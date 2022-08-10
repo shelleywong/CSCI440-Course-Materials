@@ -1,4 +1,4 @@
-* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1vU1a34NwgHwuRFKZpYwOcKdCTgOs3xjf?usp=sharing) - Shared folder of lecture slides, and other materials.
+* [Google Drive Shared Folder](https://drive.google.com/drive/folders/1OjtWg-WWJI3OlQAFIQmiFBMXqP2W3tJY?usp=sharing) - Shared folder of lecture slides, and other materials.
 * [Git Basics Video](https://www.youtube.com/watch?v=0JgyAJMvZlY&feature=youtu.be) - Basic tutorial on using git for version control I recorded Spring 2020 
 * [Learn Git Branching](https://learngitbranching.js.org/) - Excellent web tutorial working through a variety of use cases for git including using branches. 
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository
