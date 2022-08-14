@@ -180,12 +180,14 @@ I am firmly committed to diversity and equality in all areas of campus life, inc
 
 All students are welcomed to visit the Pantry located in the **Student Service Center 196**, open **Monday-Friday, 11am-4pm** or call **530-898-4098**. Please visit the Chico State Basic Needs website [http://www.csuchico.edu/basic-needs](http://www.csuchico.edu/basic-needs) for more information
 
-## COVID-19 safety reminder
+## COVID-19 
 
-The CSU requires students to be fully vaccinated against COVID-19 by September 30, 2021, unless you have an approved exemption.  Currently, Chico State is requiring everyone on campus to wear an approved face covering in all indoor campus spaces. Accordingly, all students are required to wear an appropriate face mask covering the nose and mouth in order to participate in this course.   Policies and requirements regarding COVID-19 are subject to change pursuant to campus, local, state and/or federal guidelines.
+All students are required to complete their COVID-19 Vaccination Self-Certification by 8/15/2022. For additional information regarding this requirement please visit [https://www.csuchico.edu/coronavirus/vaccine-certification-student.shtml](https://www.csuchico.edu/coronavirus/vaccine-certification-student.shtml).
+Chico State may at any time require the use of an approved face covering which covers the nose and mouth in all indoor campus spaces and in order to participate in this course when in person. When face coverings are optional, they are always welcome on campus. You will be notified if face coverings are required.
 
-Please note that dishonesty relating to the vaccination policy and/or your failure to comply with any other COVID-19 related safety policy or mandate, including the face covering requirement, may result in disciplinary action against you through the office of Student Conduct, Rights and Responsibilities, which can include suspension or expulsion from the California State University system. 
+Policies and requirements regarding COVID-19 are subject to change pursuant to campus, local, state and/or federal guidelines. Please note that dishonesty relating to the vaccination policy and/or your failure to comply with any COVID-19 related safety policy or mandate may result in disciplinary action against you through the office of Student Conduct, Rights and Responsibilities, which can include suspension or expulsion from the California State University system.
 
-Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
+It is very important for students to contact the COVID-19 hotline if they become symptomatic, believe they have been exposed, or have tested positive for COVID-19. The hotline is (530) 898-2222 or covidhotline@csuchico.edu.
+
 
 
