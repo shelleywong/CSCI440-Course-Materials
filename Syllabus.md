@@ -189,5 +189,9 @@ Policies and requirements regarding COVID-19 are subject to change pursuant to c
 
 It is very important for students to contact the COVID-19 hotline if they become symptomatic, believe they have been exposed, or have tested positive for COVID-19. The hotline is (530) 898-2222 or covidhotline@csuchico.edu.
 
+## Important note about a possible work stoppage during the semester
+
+The California Faculty Association (the labor union of Lecturers, Professors, Coaches, Counselors, and Librarians across the 23 CSU campuses) is in a difficult contract dispute with California State University management. It is possible that we will call a strike or other work stoppage this term. I promise to promptly inform you of any schedule disruption. Our working conditions are your learning conditions; we seek to protect both. For further information go to [www.CFAbargaining.org](www.CFAbargaining.org).
+
 
 
