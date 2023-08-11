@@ -15,7 +15,7 @@ Students who take this class without completing the prerequisite class will be g
 
 In addition to an CSU Chico Lab account, you need an account in the CSCI assignment turn-in system.
 
-Go to [https://turnin.ecst.csuchico.edu](https://turnin.ecst.csuchico.edu "Tyson's Turnin System") and create a new account.
+Go to [https://inginious.csuchico.edu/](https://inginious.csuchico.edu/) sign-in with your campus account and make sure to set your username to match the campus username if you haven't already.
 
 Once you create an account, log on and enroll in CSCI 440, make sure you enroll in the correct section.
 
