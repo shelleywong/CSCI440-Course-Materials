@@ -1,4 +1,4 @@
-* [One Drive Shared Folder](https://csuchico-my.sharepoint.com/:f:/g/personal/bcdixon_csuchico_edu/ErqPEe8gZONJo8ddBuu6gxEB3_9nHukMCSgVOUEA0xElcA?e=sacrKi) - Shared folder of lecture slides, and other materials. Must be authenticated to the campus OneDrive to access.
+* [One Drive Shared Folder](https://csuchico-my.sharepoint.com/:f:/g/personal/bcdixon_csuchico_edu/EvOdEGcUMQxOgIss_p8jHzgBZhfzXoYw5umi5aeEeXCjVg?e=hD9z04) - Shared folder of lecture slides, and other materials. Must be authenticated to the campus OneDrive to access.
 * [Git Basics Video](https://www.youtube.com/watch?v=0JgyAJMvZlY&feature=youtu.be) - Basic tutorial on using git for version control I recorded Spring 2020 
 * [Learn Git Branching](https://learngitbranching.js.org/) - Excellent web tutorial working through a variety of use cases for git including using branches. 
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository
