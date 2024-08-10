@@ -17,9 +17,9 @@ In addition to an CSU Chico Lab account, you need an account in the CSCI assignm
 
 Go to [https://inginious.csuchico.edu/](https://inginious.csuchico.edu/) sign-in with your campus account and make sure to set your username to match the campus username if you haven't already.
 
-Once you create an account, log on and enroll in CSCI 440, make sure you enroll in the correct section.
+Once you create an account, you'll link it through the assignment pages on Canvas.
 
-**I WILL DROP YOU FROM THE CLASS IF YOU DO NOT CREATE THIS ACCOUNT**
+**YOU WILL NOT BE ABLE TO SUBMIT MOST OF THE ASSIGNMENTS IF YOU DO NOT CREATE THIS ACCOUNT**
 
 You will use this system to turn in your programming and lab assignments.
 
