@@ -23,3 +23,4 @@ For the first assignment, you will need to use a Linux virtual machine. All assi
   * Goal: Develop a multi-threaded application that resolves domain names to IP addresses. Your application should synchronize access to shared resources and avoid deadlock, using mutexes and/or semaphores to meet this requirement.
 * **Assignment 6: DNS Resolver (IPC)**
   * [CSCI440-DNS-Name-Resolution-Engine-IPC](https://github.com/CSUChico-CSCI340/CSCI440-DNS-Name-Resolution-Engine-IPC)
+  * Goal: Develop a multi-process application that resolves domain names to IP addresses, using shared memory (a form of inter-process communication (IPC))
