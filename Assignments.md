@@ -6,6 +6,8 @@ For the first assignment, you will need to use a Linux virtual machine. All assi
 
 ## Assignment Instructions
 
+Instructions for each of the assignments can be found at the repos linked below, inside of the [CSUChico-CSCI340 GitHub organization](https://github.com/CSUChico-CSCI340). These repos also contain handouts/code that you can use as a starting point.
+
 * **Assignment 1: Writing a Kernel Module**
   * [CSCI440-KernelHacking](https://github.com/CSUChico-CSCI340/CSCI440-KernelHacking)
   * Goal: For you to become more familiar with how kernel modules are written and aspects of the Linux operating system using these modules
@@ -24,3 +26,12 @@ For the first assignment, you will need to use a Linux virtual machine. All assi
 * **Assignment 6: DNS Resolver (IPC)**
   * [CSCI440-DNS-Name-Resolution-Engine-IPC](https://github.com/CSUChico-CSCI340/CSCI440-DNS-Name-Resolution-Engine-IPC)
   * Goal: Develop a multi-process application that resolves domain names to IP addresses, using shared memory (a form of inter-process communication (IPC))
+
+> Note: It is recommended that you do NOT clone these repos and copy them into your CSCI440 repo, so you can avoid the issue of having a git repo inside of another git repo.
+
+It is recommended that you:
+  - Go to the assignment repo and click on the green Code button
+  - Make sure you are on the Local tab and select the Download ZIP option
+  - Save the file and then unzip the .zip file (to extract, can usually double click, press and hold, or right click on the file and Extract All, or use the `unzip` UNIX command)
+  - If you haven't already, move the contents of the zipped folder so that is inside your CSCI440 repo (the .zip file can be discarded)
+  - Now, if you run the `git status` command inside of your CSCI440 repo, you should see that the assignment directory has been added to your repo, and you should be able to use the git add/commit/push commands to save code inside this new subdirectory.
