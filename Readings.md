@@ -1,3 +1,8 @@
+# CSCI440 Readings
+
+The following table provides a general guideline for the topics that will be covered in class, the readings associated with the class lecture content, and some other helpful links. Note that depending on where we are in lecture & current status of assignments, the weeks may not match up exactly.
+
+
 | Week    | Recommended Readings                                  | Optional Readings                                                    |
 |---------|-------------------------------------------------------|----------------------------------------------------------------------|
 |         |                                                       |                                                                      |
@@ -48,7 +53,7 @@
 | Week 12 | OSTEP Persistence                                     | None                                                                 |
 |         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-persistence.pdf)                                              |                                                                      |
 |         | [I/O Devices](http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf)                                           |                                                                      |
-|         | [Hard Disk Drives (Focus on how to prevent starvation)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | 
+|         | [Hard Disk Drives (Focus on how to prevent starvation)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) |
 | Week 13 | OSTEP Persistence                                     | None                                                                 |
 |         | [RAID](http://pages.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf)                                                  |                                                                      |
 |         | [Files and Directories](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)                                 |                                                                      |
