@@ -1,4 +1,4 @@
-# CSCI340 Labs
+# CSCI440 Labs
 
 The following is a table of what to expect to be covered each week in lab, this is a rough guide and may not match up exactly depending on where we are in lecture & current status of assignments.
 
