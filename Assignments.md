@@ -1,6 +1,6 @@
 # CSCI440 Assignments
 
-There will be at least 6 assignments due at approximately 2 week intervals starting the second week of the semester.
+There will be at least 6 assignments due at approximately 2 week intervals starting the second week of the semester. There will also be an inquiry based final project due at the end of the semester in lieu of a final exam.
 
 For the first assignment, you will need to use a Linux virtual machine. All assignments must be able to work in a UNIX-based environment such as Linux – programs submitted to INGInious will be tested using the GNU compiler (gcc, a standard compiler for many modern Unix-like operating systems).
 
@@ -26,6 +26,9 @@ Instructions for each of the assignments can be found at the repos linked below,
 * **Assignment 6: DNS Resolver (IPC)**
   * [CSCI440-DNS-Name-Resolution-Engine-IPC](https://github.com/CSUChico-CSCI340/CSCI440-DNS-Name-Resolution-Engine-IPC)
   * Goal: Develop a multi-process application that resolves domain names to IP addresses, using shared memory (a form of inter-process communication (IPC))
+* **Inquiry Based Final Project**
+  * [final-project](https://github.com/CSUChico-CSCI340/final-project)
+  * Goal: Answer a question about a topic related to Operating Systems, devise a way to test and/or gain understanding about the question through a hands-on implementation of the concept, and write up a document with your findings.
 
 > Note: It is recommended that you do NOT clone these repos and copy them into your CSCI440 repo, so you can avoid the issue of having a git repo inside of another git repo.
 
